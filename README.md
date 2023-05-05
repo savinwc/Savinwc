@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Savio Rodricks</h1>
 <h3 align="center">A passionate django developer from India</h3>
-<img akign="center" alt="Coding" width="700" src="https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.webp">
+<center>
+    <img align="center" alt="Coding" width="700" src="https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.webp">
+</center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savinwc&label=Profile%20views&color=0e75b6&style=flat" alt="savinwc" /> </p>
 
