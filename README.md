@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Savio Rodricks</h1>
 <h3 align="center">A passionate django developer from India</h3>
