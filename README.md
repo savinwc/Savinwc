@@ -32,12 +32,18 @@
 <p align="left"> <a href="https://github.com/savinwc"><img src="https://skillicons.dev/icons?i=java,python,spring,django,vscode,github,css,html,js,bootstrap,firebase,mysql,aws"> </a> </p>
 
 ## Stats and Activity On GitHub:
-<p align="center">
-<img height="195px" src="https://github-readme-stats.vercel.app/api?username=Savinwc&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
- <a href="https://github.com/Savinwc">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Savinwc&theme=dark&hide_border=true&stroke=f53b3b"/>
-</a> 
-</p>
+<div style="display: flex; justify-content: center;">
+    <div style="flex: 1; margin-right: 10px;">
+        <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Savinwc&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+    </div>
+    <div style="flex: 1; margin-left: 10px;">
+        <a href="https://github.com/Savinwc">
+            <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Savinwc&theme=dark&hide_border=true&stroke=f53b3b"/>
+        </a>
+    </div>
+</div>
+
+
 
 ## Top Respositorys
   <p align="left">
