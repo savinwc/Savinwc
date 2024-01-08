@@ -1,17 +1,17 @@
 
 
-<h1 align="center">Hi 👋, I'm Savio Rodricks</h1>
-<h3 align="center">A passionate django developer from India</h3>
+<h1 align="center">**Hello Word** 👋, **I'm Savio Rodricks**</h1>
 
 
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Springboot**
-
-- 💬 Ask me about **How to centre a DIV**
-
+- 🌱 Focusing on **Machine Learning** and **Springboot**.
+- 💬 Ask me about **How to centre a DIV**!
+- 💻 Pursuing degree in **Computer Engineering.**
+- 👬 I’m looking to collaborate on Python, Springboot & ML.
+- 💁 Ready to help in Backend Dev.
 - 📫 How to reach me **rodrickssavio2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
