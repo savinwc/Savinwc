@@ -1,11 +1,13 @@
+## Introduction
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Hello%20World%20!;I%20am%20Savio%2B%20Rodricks%20&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Hello%20World%20!;I%20am%20Savio%20Rodricks...%20&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+## What I'm Doing
 - 🌱 Focusing on **Machine Learning** and **Springboot**.
 - 💬 Ask me about **How to centre a DIV**!
 - 💻 Pursuing degree in **Computer Engineering.**
