@@ -2,9 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Savio Rodricks</h1>
 <h3 align="center">A passionate django developer from India</h3>
-<center>
-    <img align="center" alt="Coding" width="700" src="https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.webp">
-</center>
+
 
 
 
