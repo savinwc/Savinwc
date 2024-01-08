@@ -19,6 +19,8 @@
 <a href="https://linkedin.com/in/saviorodricks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saviorodricks" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rodrickssavio2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rodrickssavio2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Savior7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rodrickssavio2" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/savior7" target="blank"><img align="center" src="https://brandfetch.com/codechef.com/library/default/asset/idiSE15kP0?collection=logos&view=library" alt="rodrickssavio2" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Savior7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rodrickssavio2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
