@@ -1,7 +1,6 @@
-
-
-<h1 align="center">Hello World 👋, I'm Savio Rodricks</h1>
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Hello%20World%20!;I%20am%20Savio%2B%20Rodricks%20&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+</p>
 
 
 
