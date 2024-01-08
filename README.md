@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hello Word 👋, I'm Savio Rodricks</h1>
+<h1 align="center">Hello World 👋, I'm Savio Rodricks</h1>
 
 
 
