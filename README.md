@@ -31,16 +31,18 @@
 
 <p align="left"> <a href="https://github.com/savinwc"><img src="https://skillicons.dev/icons?i=java,python,spring,django,vscode,github,css,html,js,bootstrap,firebase,mysql,aws"> </a> </p>
 
-## My Stats:
+## Stats and Activity On GitHub:
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Savinwc&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
-</p>
-
-## Activity On GitHub
-
-<p align="center">
-  <a href="https://github.com/Savinwc">      
+<img height="195px" src="https://github-readme-stats.vercel.app/api?username=Savinwc&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+ <a href="https://github.com/Savinwc">      
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Savinwc&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
+
+## Top Respositorys
+  <p align="left">
+     <a href="https://github.com/savinwc/Resume-Screener"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=savinwc&repo=Resume-Screener&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/savinwc/Hoax-Hunter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=savinwc&repo=Hoax-Hunter&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+ <a href="https://github.com/savinwc/Stock-Market-Analyzer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=savinwc&repo=Stock-Market-Analyzer&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  </p>
 
