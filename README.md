@@ -21,7 +21,7 @@
 <a href="https://www.leetcode.com/Savior7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rodrickssavio2" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/savior7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="savior7" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/unknownrf7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="unknownrf7" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/savior7" target="blank"><img align="center" src="https://icons8.com/icon/O4SEeX66BY8o/codechef" alt="savior7" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/savior7" target="blank"><img align="center" src="[https://icons8.com/icon/O4SEeX66BY8o/codechef](https://www.codechef.com/users/glen17)" alt="savior7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
