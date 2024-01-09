@@ -19,11 +19,11 @@
 <a href="https://www.codechef.com/users/savior7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="savior7" height="30" width="40" /></a>
 </p>
 
-## Languages and Tools
+## Languages and Tools:
 
 <p align="left"> <a href="https://github.com/savinwc"><img src="https://skillicons.dev/icons?i=java,python,spring,django,vscode,github,css,html,js,bootstrap,firebase,mysql,aws"> </a> </p>
 
-## Stats and Activity On GitHub:
+## GitHub Stats:
 <div style="display: flex; justify-content: center;">
     <div style="flex: 1; margin-right: 10px;">
         <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Savinwc&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
