@@ -20,7 +20,7 @@
 
 ## Languages and Tools:
 
-<p align="left"> <a href="https://github.com/savinwc"><img src="https://skillicons.dev/icons?i=java,python,spring,django,vscode,github,css,html,js,bootstrap,firebase,mysql,aws"> </a> </p>
+<p align="left"> <a href="https://github.com/savinwc"><img src="https://skillicons.dev/icons?i=java,python,spring,django,vscode,github,firebase,mysql,aws"> </a> </p>
 
 ## GitHub Stats:
 <div style="display: flex; justify-content: center;">
