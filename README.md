@@ -2,7 +2,6 @@
 
 - 🌱 Focusing on **Machine Learning** and **Springboot**.
 - 💬 Ask me about **How to centre a DIV**!
-- 💻 Pursuing degree in **Computer Engineering.**
 - 👬 I’m looking to collaborate on Python, Springboot & ML.
 - 💁 Ready to help in Backend Dev.
 - 📫 How to reach me **rodrickssavio2@gmail.com**
